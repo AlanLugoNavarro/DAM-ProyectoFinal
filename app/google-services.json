@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620211509933",
+    "project_id": "mq135-adc0d",
+    "storage_bucket": "mq135-adc0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620211509933:android:1b6bf740aa9702dada8424",
+        "android_client_info": {
+          "package_name": "com.example.mq135"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt_6nrr6AZ7XMo3Vi5ryvo15cTHT9RAW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
